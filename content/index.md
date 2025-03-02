@@ -4,7 +4,7 @@
 
 
 ```
-molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]`
+molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
 
 ## Projects
