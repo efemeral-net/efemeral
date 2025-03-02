@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Alias
-tags: 
-- shell
+tags:
+  - shell
 ---
 Set up an alias as a [[shell]] shortcut.
 

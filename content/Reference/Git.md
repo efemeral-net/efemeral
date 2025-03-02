@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Git
-tags: 
-- shell
+tags:
+  - shell
 ---
 ### Initialize
 
