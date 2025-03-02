@@ -2,7 +2,7 @@
 title: ✨ Welcome
 ---
 
-tech + media_art + thinking_out_loud
+tech reference + project documentation + media_art + just_thinking_out_loud
 
 ![[output.jpg]]
 

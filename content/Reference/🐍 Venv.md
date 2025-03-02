@@ -1,8 +1,6 @@
 ---
 title: Venv 🐍
 ---
-[[Reference]]: [[Python]]
-
 Set up environments in [[Python]].
 
 ### Activate
