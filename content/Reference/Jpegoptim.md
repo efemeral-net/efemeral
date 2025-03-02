@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Jpegoptim
 tags: 
-	- cli
+- cli
 ---
 Compress jpegs to smaller file sizes / lower quality.
 ```zsh

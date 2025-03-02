@@ -1,9 +1,9 @@
 ---
 title: ⌨️ Local Sharing via HTTP or ssh
-tags: 
-	- cli
-	- http
-	- ssh
+tags:
+  - cli
+  - http
+  - ssh
 ---
 
 ### **Step 1: Connect the Ethernet Cable**

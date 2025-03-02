@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Alias
 tags: 
-	- cli
+- cli
 ---
 Set up in alias as a `CLI` shortcut.
 
