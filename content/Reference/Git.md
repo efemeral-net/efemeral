@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Git
 tags: 
-- cli
+- shell
 ---
 ### Initialize
 

@@ -1,11 +1,8 @@
 ---
 title: ⌨️ Local Sharing via HTTP or ssh
 tags:
-  - cli
-  - http
-  - ssh
+  - shell
 ---
-[[CLI]]
 ### **Step 1: Connect the Ethernet Cable**
 
 1.  Use a standard Ethernet cable to connect the two machines.

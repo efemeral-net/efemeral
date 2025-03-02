@@ -1,9 +1,9 @@
 ---
 title: ⌨️ Alias
 tags: 
-- cli
+- shell
 ---
-Set up in alias as a [[CLI]] shortcut.
+Set up an alias as a [[shell]] shortcut.
 
 ### Temporary
 
