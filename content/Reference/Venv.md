@@ -1,5 +1,5 @@
 ---
-title: Venv 🐍
+title: 🐍 Venv
 ---
 Set up environments in [[Python]].
 
