@@ -2,8 +2,6 @@
 {"publish":true,"title":"Reflecting on A Lockdown Project: A Survivor Data Visualization App","PassFrontmatter":true}
 ---
 
-### Reflecting on A Lockdown Project: A "Survivor" Data Visualization App
-
 During the lockdown in 2020, like many others, I had extra time on my hands. I was spending a lot of my time taking computer science courses and learning Python. After a while, I felt I was ready to try to build a web app to practice processing and visualizing data. I had the idea to pull the data from the other way I was spending a lot of time: binging Survivor. 
 
 ![Screenshot 2025-03-02 at 4.59.40 PM.png](../media/Screenshot%202025-03-02%20at%204.59.40%20PM.png)
