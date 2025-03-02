@@ -1,7 +1,8 @@
 ---
 {"publish":true,"title":"⌨️ Alias","tags":["shell"],"PassFrontmatter":true}
 ---
-Set up an alias as a [[shell]] shortcut.
+
+Set up an alias as a [[shell\|shell]] shortcut.
 
 ### Temporary
 
