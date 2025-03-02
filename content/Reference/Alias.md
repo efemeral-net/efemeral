@@ -1,20 +1,21 @@
 ---
 title: ⌨️ Alias
 ---
-Set up in alias as a [[CLI]] shortcut.
+Set up in alias as a `CLI` shortcut.
 
 ### Temporary
 
 ```bash 
-alias SpecialFolder="cd /Users/{user]/Library/Special_Folder"
+alias SpecialFolder="cd /path/to/Special_Folder"
 ```
 ### Permanent
 
+#### Bash / Linux
 ```bash
-nano ~/.bashrc 
+echo 'alias SpecialFolder="cd /path/to/Special_Folder' >> ~/.bashrc 
 ```
-At the end of the file add:
+#### Zsh / Mac
 ```bash
-alias SpecialFolder="cd /Users/{user]/Library/Special_Folder"
+echo 'alias SpecialFolder="cd /path/to/Special_Folder' >> ~/.zshrc
 ```
 
