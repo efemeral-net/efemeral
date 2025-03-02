@@ -1,5 +1,5 @@
 ---
-title: ⌨️ Linux to Mac Ethernet Sharing via HTTP Server or ssh-server
+title: ⌨️ Ethernet Sharing via HTTP or ssh
 ---
 
 ### **Step 1: Connect the Ethernet Cable**
