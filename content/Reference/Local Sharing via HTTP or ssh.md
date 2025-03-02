@@ -1,4 +1,5 @@
 ---
+publish: true
 title: ⌨️ Local Sharing via HTTP or ssh
 tags:
   - shell

@@ -1,11 +1,12 @@
 ---
+publish: true
 title: Welcome
 ---
 
-tech reference + project documentation + media_art + just_thinking_out_loud
+`molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]`
 
 ## Reference
-Where I write technical things down to come back to later.
+Where I write little technical things down to come back to later. A notebook.
 
 ### Shell
 

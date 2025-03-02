@@ -1,4 +1,5 @@
 ---
+publish: true
 title: ⌨️ Alias
 tags:
   - shell
