@@ -1,8 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Molekh Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Tech, media art, tinkering. 
 
-hello
+![[output.jpg]]
+
