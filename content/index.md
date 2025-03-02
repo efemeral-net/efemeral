@@ -10,20 +10,15 @@ Where I write little technical things down to come back to later. A notebook.
 
 ### Shell
 
-```dataview
-LIST
-FROM "Reference" AND #shell
-```
+- [[Reference/Alias\|Alias]]
+- [[Reference/Git\|Git]]
+- [[Reference/Jpegoptim\|Jpegoptim]]
+- [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
+
 
 ### Python
-```dataview
-LIST
-FROM "Reference" AND #python 
-```
+- [[Reference/Venv\|Venv]]
+
 
 ## Projects
 Posts about things I'm working on.
-```dataview
-LIST
-FROM "Projects" AND #shell
-```

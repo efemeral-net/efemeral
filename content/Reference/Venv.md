@@ -4,6 +4,7 @@ title: 🐍 Venv
 tags:
 - python
 ---
+
 Set up environments in `Python`.
 
 ### Activate
