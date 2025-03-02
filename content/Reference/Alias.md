@@ -4,8 +4,7 @@ title: ⌨️ Alias
 tags:
   - shell
 ---
-
-Set up an alias as a [[shell\|shell]] shortcut.
+Set up an alias as a [[shell]] shortcut.
 
 ### Temporary
 
