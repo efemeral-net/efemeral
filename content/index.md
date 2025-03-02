@@ -9,12 +9,15 @@ molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_o
 
 ## Projects
 Posts about things I'm working on.
+#### Blog Posts
 - [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
 
+#### Links to Things
+- [Howdy (p5.js)](https://k-hurl-e.github.io/howdy/)
 
 ## Reference
 Where I write little technical things down to come back to later. A notebook.
-### Shell
+#### Shell
 
 - [[Reference/Alias\|Alias]]
 - [[Reference/Jpegoptim\|Jpegoptim]]
@@ -22,7 +25,11 @@ Where I write little technical things down to come back to later. A notebook.
 - [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
 
 
-### Python
+#### Python
 - [[Reference/Venv\|Venv]]
 
 
+## Some Things That Tickle My Brain
+[Permacomputing](https://permacomputing.net/)
+[Low-tech Magazine](https://solar.lowtechmagazine.com/)
+[Sam Lavigne](https://lav.io)
