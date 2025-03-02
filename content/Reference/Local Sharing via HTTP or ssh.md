@@ -5,7 +5,7 @@ tags:
   - http
   - ssh
 ---
-
+[[CLI]]
 ### **Step 1: Connect the Ethernet Cable**
 
 1.  Use a standard Ethernet cable to connect the two machines.
