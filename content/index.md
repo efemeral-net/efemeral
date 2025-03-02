@@ -1,6 +1,7 @@
 ---
-title: Welcome
+{"publish":true,"title":"Welcome","PassFrontmatter":true}
 ---
+
 
 tech reference + project documentation + media_art + just_thinking_out_loud
 
@@ -9,20 +10,15 @@ Where I write technical things down to come back to later.
 
 ### Shell
 
-```dataview
-LIST
-FROM "Reference" AND #shell
-```
+- [[Reference/Alias\|Alias]]
+- [[Reference/Git\|Git]]
+- [[Reference/Jpegoptim\|Jpegoptim]]
+- [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
+
 
 ### Python
-```dataview
-LIST
-FROM "Reference" AND #python 
-```
+- [[Reference/Venv\|Venv]]
+
 
 ## Projects
 Posts about things I'm working on.
-```dataview
-LIST
-FROM "Projects" AND #shell
-```
