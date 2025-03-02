@@ -1,6 +1,5 @@
 ---
-publish: true
-title: Welcome
+{"publish":true,"title":"Welcome","PassFrontmatter":true}
 ---
 
 ```
@@ -13,6 +12,11 @@ Posts about things I'm working on.
 LIST
 FROM "Projects"
 ```
+
+## Projects
+Posts about things I'm working on.
+- [[Projects/Survivor40\|Survivor40]]
+
 
 ## Reference
 Where I write little technical things down to come back to later. A notebook.

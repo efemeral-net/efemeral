@@ -1,8 +1,5 @@
 ---
-publish: true
-title: ⌨️ Local Sharing via HTTP or ssh
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Local Sharing via HTTP or ssh","tags":["shell"],"PassFrontmatter":true}
 ---
 ### **Step 1: Connect the Ethernet Cable**
 
