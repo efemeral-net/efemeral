@@ -1,5 +1,5 @@
 ---
-title: ⌨️ Ethernet Sharing via HTTP or ssh
+title: ⌨️ Local Sharing via HTTP or ssh
 ---
 
 ### **Step 1: Connect the Ethernet Cable**
