@@ -48,3 +48,11 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["/media"])
+    return !omit.has(node.name.toLowerCase())
+  },
+})

@@ -1,7 +1,7 @@
 ---
 title: ⌨️ Alias
 ---
-Set up in alias as a CLI shortcut.
+Set up in alias as a [[CLI]] shortcut.
 
 ### Temporary
 
