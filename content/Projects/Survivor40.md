@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title:":"Reflecting on A Lockdown Project: A Survivor Data Visualization App","PassFrontmatter":true}
+{"publish":true,"title":"Reflecting on A Lockdown Project: A Survivor Data Visualization App","PassFrontmatter":true}
 ---
 
 ### Reflecting on A Lockdown Project: A "Survivor" Data Visualization App
