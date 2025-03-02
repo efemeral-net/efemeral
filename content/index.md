@@ -2,8 +2,9 @@
 {"publish":true,"title":"Welcome","PassFrontmatter":true}
 ---
 
-
-tech reference + project documentation + media_art + just_thinking_out_loud
+```python
+molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
+```
 
 ## Reference
 Where I write technical things down to come back to later.
