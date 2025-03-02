@@ -1,5 +1,7 @@
 ---
 title: ⌨️ Alias
+tags: 
+	- cli
 ---
 Set up in alias as a `CLI` shortcut.
 
