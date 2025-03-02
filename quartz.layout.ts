@@ -44,15 +44,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["/media"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    }),
   ],
   right: [],
 }
 
-Component.Explorer({
-  filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["/media"])
-    return !omit.has(node.name.toLowerCase())
-  },
-})
+
