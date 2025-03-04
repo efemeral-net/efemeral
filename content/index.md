@@ -23,13 +23,17 @@ Where I write little technical things down to come back to later. A notebook.
 - [[Reference/Jpegoptim\|Jpegoptim]]
 - [[Reference/Git\|Git]]
 - [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
+- [[Reference/Cronjob\|Cronjob]]
+- [[Reference/FFmpeg\|FFmpeg]]
+- [[Reference/Videogrep\|Videogrep]]
 
 
 #### Python
+- [[Reference/Videogrep\|Videogrep]]
 - [[Reference/Venv\|Venv]]
 
 
 ## Some Things That Tickle My Brain
-[Permacomputing](https://permacomputing.net/)
-[Low-tech Magazine](https://solar.lowtechmagazine.com/)
-[Sam Lavigne](https://lav.io)
+- [Permacomputing](https://permacomputing.net/)
+- [Low-tech Magazine](https://solar.lowtechmagazine.com/)
+- [Sam Lavigne](https://lav.io)
