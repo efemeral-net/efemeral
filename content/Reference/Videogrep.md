@@ -13,13 +13,6 @@ videogrep -i 'input_file.mkv' --search 'keyword' --search 'alternative_keyword' 
 - The `-r` flag enables reverse search.
 - The `[number]` placeholder can be used to specify a range of timestamps for each search result, but it is not used in this example.
 
-#### `videogrep` with Timestamp Parameter (Not Used)
-```markdown
-videogrep -i 'input_file.mkv' -n [5]
-```
-- This command is similar to the first one but does not specify any search keywords.
-- The `-n [5]` option would normally be used to display only a specific number of search results (`[5]` means five results), but without any preceding keyword searches, it doesn't apply here.
-
 #### `videogrep` with Multi-Search Parameters
 ```markdown
 videogrep -i 'input_file.mkv' --search 'keyword1' --search 'keyword2' -r -o output.mp4
