@@ -19,19 +19,19 @@ Posts about things I'm working on.
 Where I write little technical things down to come back to later. A notebook.
 #### Shell
 
-- [[Reference/Alias\|Alias]]
+- [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
 - [[Reference/Jpegoptim\|Jpegoptim]]
 - [[Reference/Git\|Git]]
-- [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
-- [[Reference/Cronjob\|Cronjob]]
-- [[Reference/FFmpeg\|FFmpeg]]
-- [[Reference/Videogrep\|Videogrep]]
 - [[Reference/Gh\|Gh]]
+- [[Reference/FFmpeg\|FFmpeg]]
+- [[Reference/Cronjob\|Cronjob]]
+- [[Reference/Alias\|Alias]]
 
 
 #### Python
-- [[Reference/Venv\|Venv]]
 - [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Venv\|Venv]]
 
 
 ## Some Things That Tickle My Brain
