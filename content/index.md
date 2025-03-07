@@ -40,10 +40,7 @@ Where I write little technical things down to come back to later. A notebook.
 #### Python
 - [[Reference/Videogrep\|Videogrep]]
 - [[Reference/Venv\|Venv]]
-
-
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
-## Some Things That Tickle My Brain
+## Interesting Things
 - [Permacomputing](https://permacomputing.net/)
 - [Low-tech Magazine](https://solar.lowtechmagazine.com/)
-- [Sam Lavigne](https://lav.io)
+- [Sam Lavigne's Work](https://lav.io)
