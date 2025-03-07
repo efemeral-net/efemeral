@@ -1,21 +1,19 @@
 ---
-publish: true
-title: Welcome
+{"publish":true,"title":"Welcome","PassFrontmatter":true}
 ---
 
 
+
 ```
-afemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
+efemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
 
 ## Projects
 Posts about things I'm working on.
 #### Blog Posts
 <<<<<<< HEAD
-```dataview
-LIST
-FROM "Projects"
-```
+- [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
+
 =======
 - [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
 
@@ -38,10 +36,8 @@ Where I write little technical things down to come back to later. A notebook.
 
 <<<<<<< HEAD
 #### Python
-```dataview
-LIST
-FROM "Reference" AND #python 
-```
+- [[Reference/Venv\|Venv]]
+
 
 =======
 
