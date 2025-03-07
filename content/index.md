@@ -5,7 +5,7 @@ title: Welcome
 
 
 ```
-afemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
+efemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
 
 ## Projects
