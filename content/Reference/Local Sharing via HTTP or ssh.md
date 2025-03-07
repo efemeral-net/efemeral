@@ -4,6 +4,7 @@ title: ⌨️ Local Sharing via HTTP or ssh
 tags:
   - shell
 ---
+
 ### **Step 1: Connect the Ethernet Cable**
 
 1.  Use a standard Ethernet cable to connect the two machines.

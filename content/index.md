@@ -3,6 +3,7 @@ publish: true
 title: Welcome
 ---
 
+
 ```
 afemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
@@ -10,10 +11,15 @@ afemeral = ["tech_reference", "project documentation", "media_art", "thinking_ou
 ## Projects
 Posts about things I'm working on.
 #### Blog Posts
+<<<<<<< HEAD
 ```dataview
 LIST
 FROM "Projects"
 ```
+=======
+- [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
+
+>>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 #### Links to Things
 - [Howdy (p5.js)](https://k-hurl-e.github.io/howdy/)
 
@@ -21,17 +27,30 @@ FROM "Projects"
 Where I write little technical things down to come back to later. A notebook.
 #### Shell
 
-```dataview
-LIST
-FROM "Reference" AND #shell
-```
+- [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
+- [[Reference/Jpegoptim\|Jpegoptim]]
+- [[Reference/Git\|Git]]
+- [[Reference/Gh\|Gh]]
+- [[Reference/FFmpeg\|FFmpeg]]
+- [[Reference/Cronjob\|Cronjob]]
+- [[Reference/Alias\|Alias]]
 
+<<<<<<< HEAD
 #### Python
 ```dataview
 LIST
 FROM "Reference" AND #python 
 ```
 
+=======
+
+#### Python
+- [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Venv\|Venv]]
+
+
+>>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 ## Some Things That Tickle My Brain
 - [Permacomputing](https://permacomputing.net/)
 - [Low-tech Magazine](https://solar.lowtechmagazine.com/)

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 publish: true
 title: ⌨️🐍 Videogrep
 tags:
@@ -6,6 +7,12 @@ tags:
   - python
 ---
 
+=======
+{"publish":true,"title":"⌨️🐍 Videogrep","tags":["shell","python"],"PassFrontmatter":true}
+---
+
+
+>>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 [Videogrep](https://github.com/antiboredom/videogrep) makes automatic video supercuts with [Python].
 
 #### `videogrep` with Search Parameters
