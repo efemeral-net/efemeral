@@ -1,35 +1,38 @@
 ---
-{"publish":true,"title":"Welcome","PassFrontmatter":true}
+publish: true
+title: Welcome
 ---
 
 ```
-molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]`
+afemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
 
 ## Projects
 Posts about things I'm working on.
+#### Blog Posts
 ```dataview
 LIST
 FROM "Projects"
 ```
-
-## Projects
-Posts about things I'm working on.
-- [[Projects/Survivor40\|Survivor40]]
-
+#### Links to Things
+- [Howdy (p5.js)](https://k-hurl-e.github.io/howdy/)
 
 ## Reference
 Where I write little technical things down to come back to later. A notebook.
-### Shell
+#### Shell
 
 ```dataview
 LIST
 FROM "Reference" AND #shell
 ```
 
-### Python
+#### Python
 ```dataview
 LIST
 FROM "Reference" AND #python 
 ```
 
+## Some Things That Tickle My Brain
+- [Permacomputing](https://permacomputing.net/)
+- [Low-tech Magazine](https://solar.lowtechmagazine.com/)
+- [Sam Lavigne](https://lav.io)

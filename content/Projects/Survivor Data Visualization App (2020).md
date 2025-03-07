@@ -9,7 +9,7 @@ During the lockdown in 2020, like many others, I had extra time on my hands. I w
 ---
 ## **The Idea: Merging "Survivor" with Data Science**
 
-I've always been fascinated by the strategies, alliances, and voting patterns in "Survivor." The idea of **quantifying** these elements and presenting them visually intrigued me. So, I started collecting data—manually compiling a **database of winners, ages, votes, and regions** spanning 40 seasons.
+I love survivor, it's so calculated.  I wanted to attempt to bring some statistical insights to the patterns I was observing. So, I started collecting data—compiling a **database of winners, ages, votes, and regions** spanning 40 seasons.
 
 The goal was simple:
 
@@ -24,7 +24,7 @@ The goal was simple:
 
 ### **Flask & Jinja: The Web Framework**
 
-Flask’s lightweight nature made it seem more approachable as I was learning, but I was glad I did. This project had a lot to render and building with Flask and rendering them dynamically with Jinja templates helped the code stay clean and run fast. It allowed me to create clean, template-driven pages without unnecessary complexity.
+Flask’s lightweight nature made it seem more approachable, and I really appreciate the clean looking code and good documentation. This project had a lot to render and building with Flask and rendering them dynamically with Jinja templates helped the code stay clean and run fast. It allowed me to create clean, template-driven pages without unnecessary complexity.
 
 ### **SQLite & SQL Queries: The Data Engine**
 
@@ -45,7 +45,9 @@ I opted for Matplotlib to generate static charts. Using Python scripts, I create
 ---
 ### **Front-End Design: A Clean, Dynamic Look**
 
-The front-end keeps things simple yet bold, with a **high-contrast gradient background** and a **clean, structured layout**. A fixed side nav ensures easy access, while **monospace fonts, subtle transparency, and hover effects** give the data a sharp, modern feel. Tables and pie charts are styled for clarity, and **media queries** keep everything responsive.
+The front-end keeps things simple yet bold, with a **high-contrast gradient background** and a **clean, structured layout**. A fixed side nav ensures easy access, while **monospace fonts, subtle transparency, and hover effects** give the page some depth. Tables and pie charts are styled for clarity, and **media queries** keep everything responsive.
+
+If I were to design this again, I would probably want the pie charts to be much larger than the data, and enable hover effects when the mouse passes over pieces.
 
 ---
 

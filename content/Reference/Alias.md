@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"⌨️ Alias","tags":["shell"],"PassFrontmatter":true}
+publish: true
+title: ⌨️ Alias
+tags:
+  - shell
 ---
 Set up an alias as a [[shell]] shortcut.
 

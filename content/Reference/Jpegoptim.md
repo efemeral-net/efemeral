@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"⌨️ Jpegoptim","tags":["shell"],"PassFrontmatter":true}
+publish: true
+title: ⌨️ Jpegoptim
+tags: 
+- shell
 ---
 Compress jpegs to smaller file sizes / lower quality.
 ```zsh

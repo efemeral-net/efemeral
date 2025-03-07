@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"🐍 Venv","tags":["python"],"PassFrontmatter":true}
+publish: true
+title: 🐍 Venv
+tags:
+- python
 ---
-Set up environments in `Python`.
+Set up environments in [Python].
 
 ### Activate
 
