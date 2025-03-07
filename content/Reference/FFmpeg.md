@@ -2,14 +2,7 @@
 {"publish":true,"title":"⌨️ Ffmpeg","tags":["shell"],"PassFrontmatter":true}
 ---
 
-
-=======
-{"publish":true,"title":"⌨️ Ffmpeg","tags":["shell"],"PassFrontmatter":true}
----
-
-
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
-#### `ffmpeg` to convert .mkv to .mp4
+`ffmpeg` to convert .mkv to .mp4
 ```markdown
 ffmpeg -i input.mkv -c copy output.mp4
 ```

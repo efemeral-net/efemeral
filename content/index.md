@@ -11,13 +11,8 @@ efemeral = ["tech_reference", "project documentation", "media_art", "thinking_ou
 ## Projects
 Posts about things I'm working on.
 #### Blog Posts
-<<<<<<< HEAD
 - [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
 
-=======
-- [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
-
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 #### Links to Things
 - [Howdy (p5.js)](https://k-hurl-e.github.io/howdy/)
 
@@ -36,8 +31,8 @@ Where I write little technical things down to come back to later. A notebook.
 
 <<<<<<< HEAD
 #### Python
-- [[Reference/Venv\|Venv]]
 - [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Venv\|Venv]]
 
 
 =======

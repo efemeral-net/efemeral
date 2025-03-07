@@ -2,10 +2,7 @@
 {"publish":true,"title":"🐍 Venv","tags":["python"],"PassFrontmatter":true}
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 Set up environments in [Python].
 
 ### Activate

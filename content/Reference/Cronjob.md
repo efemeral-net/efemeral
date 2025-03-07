@@ -2,14 +2,7 @@
 {"publish":true,"title":"⌨️ Cronjob","tags":["shell"],"PassFrontmatter":true}
 ---
 
-=======
-{"publish":true,"title":"⌨️ Cronjob","tags":["shell"],"PassFrontmatter":true}
----
-
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
-To run a Python program daily using a `cron` job while ensuring it uses a specific virtual environment, you can follow these steps:
-
-### 1. **Create a Shell Script to Activate the Virtual Environment and Run the Script**
+1. **Create a Shell Script to Activate the Virtual Environment and Run the Script**
    - Create a shell script (e.g., `run_script.sh`) that activates the virtual environment and then runs your Python program.
 
    ```bash

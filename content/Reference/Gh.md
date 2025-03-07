@@ -2,11 +2,6 @@
 {"publish":true,"title":"⌨️ Gh","tags":["shell"],"PassFrontmatter":true}
 ---
 
-=======
-{"publish":true,"title":"⌨️ Gh","tags":["shell"],"PassFrontmatter":true}
----
-
->>>>>>> f251504d101c483fe49b365b5a32e2a9e86c3726
 ### Fork a Repository Using GitHub CLI
 
 1. **Install GitHub CLI**:
