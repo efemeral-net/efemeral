@@ -1,7 +1,7 @@
 ---
-{"publish":true,"title":"Welcome","PassFrontmatter":true}
+publish: true
+title: Welcome
 ---
-
 
 
 ```
@@ -12,8 +12,10 @@ efemeral = ["tech_reference", "project documentation", "media_art", "thinking_ou
 Posts about things I'm working on.
 #### Blog Posts
 <<<<<<< HEAD
-- [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
-
+```dataview
+LIST
+FROM "Projects"
+```
 =======
 - [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
 
@@ -36,8 +38,10 @@ Where I write little technical things down to come back to later. A notebook.
 
 <<<<<<< HEAD
 #### Python
-- [[Reference/Venv\|Venv]]
-
+```dataview
+LIST
+FROM "Reference" AND #python 
+```
 
 =======
 

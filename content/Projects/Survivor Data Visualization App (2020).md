@@ -2,10 +2,9 @@
 {"publish":true,"title":"Survivor Data Visualization App (2020)","PassFrontmatter":true}
 ---
 
-
 During the lockdown in 2020, like many others, I had extra time on my hands. I was spending a lot of my time taking computer science courses and learning Python. After a while, I felt I was ready to try to build a web app to practice processing and visualizing data. I had the idea to pull the data from the other way I was spending a lot of time: binging Survivor. 
 
-![Screenshot 2025-03-02 at 4.59.40 PM.png](../media/Screenshot 2025-03-02 at 4.59.40 PM.png)
+![Screenshot 2025-03-02 at 4.59.40 PM.png](../media/Screenshot%202025-03-02%20at%204.59.40%20PM.png)
 
 ---
 ## **The Idea: Merging "Survivor" with Data Science**
@@ -41,7 +40,7 @@ With SQL queries, I could efficiently retrieve and filter data for visualization
 
 I opted for Matplotlib to generate static charts. Using Python scripts, I created **pie charts** to illustrate key trends.
 
-![Screenshot 2025-03-02 at 5.00.06 PM.png](../media/Screenshot 2025-03-02 at 5.00.06 PM.png)
+![Screenshot 2025-03-02 at 5.00.06 PM.png](../media/Screenshot%202025-03-02%20at%205.00.06%20PM.png)
 
 ---
 ### **Front-End Design: A Clean, Dynamic Look**

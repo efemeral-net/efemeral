@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"⌨️ Git","tags":["shell"],"PassFrontmatter":true}
+publish: true
+title: ⌨️ Git
+tags:
+  - shell
 ---
-
 
 ### Initialize
 

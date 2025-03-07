@@ -1,5 +1,5 @@
 ---
-<<<<<<< HEAD
+
 publish: true
 title: ⌨️ Ffmpeg
 tags:
