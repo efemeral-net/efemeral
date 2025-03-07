@@ -4,7 +4,7 @@
 
 
 ```
-molekhxyz = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
+afemeral = ["tech_reference", "project documentation", "media_art", "thinking_out_loud"]
 ```
 
 ## Projects
