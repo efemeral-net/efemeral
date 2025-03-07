@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Gh
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Gh","tags":["shell"],"PassFrontmatter":true}
 ---
+
 ### Fork a Repository Using GitHub CLI
 
 1. **Install GitHub CLI**:

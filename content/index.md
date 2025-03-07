@@ -11,10 +11,8 @@ efemeral = ["tech_reference", "project documentation", "media_art", "thinking_ou
 ## Projects
 Posts about things I'm working on.
 #### Blog Posts
-```dataview
-LIST
-FROM "Projects"
-```
+- [[Projects/Survivor Data Visualization App (2020)\|Survivor Data Visualization App (2020)]]
+
 #### Links to Things
 - [Howdy (p5.js)](https://k-hurl-e.github.io/howdy/)
 

@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Ffmpeg
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Ffmpeg","tags":["shell"],"PassFrontmatter":true}
 ---
+
 `ffmpeg` to convert .mkv to .mp4
 ```markdown
 ffmpeg -i input.mkv -c copy output.mp4

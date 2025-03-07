@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Cronjob
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Cronjob","tags":["shell"],"PassFrontmatter":true}
 ---
+
 1. **Create a Shell Script to Activate the Virtual Environment and Run the Script**
    - Create a shell script (e.g., `run_script.sh`) that activates the virtual environment and then runs your Python program.
 
