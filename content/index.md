@@ -1,7 +1,7 @@
 ---
-publish: true
-title: Welcome
+{"publish":true,"title":"Welcome","PassFrontmatter":true}
 ---
+
 
 
 ```
@@ -33,10 +33,9 @@ Where I write little technical things down to come back to later. A notebook.
 
 <<<<<<< HEAD
 #### Python
-```dataview
-LIST
-FROM "Reference" AND #python 
-```
+- [[Reference/Videogrep\|Videogrep]]
+- [[Reference/Venv\|Venv]]
+
 
 =======
 
