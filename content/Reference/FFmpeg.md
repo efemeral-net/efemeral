@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Ffmpeg
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Ffmpeg","tags":["shell"],"PassFrontmatter":true}
 ---
+
 
 =======
 {"publish":true,"title":"⌨️ Ffmpeg","tags":["shell"],"PassFrontmatter":true}

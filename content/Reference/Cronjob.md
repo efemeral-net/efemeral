@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Cronjob
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Cronjob","tags":["shell"],"PassFrontmatter":true}
 ---
+
 =======
 {"publish":true,"title":"⌨️ Cronjob","tags":["shell"],"PassFrontmatter":true}
 ---

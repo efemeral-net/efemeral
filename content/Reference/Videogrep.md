@@ -1,11 +1,7 @@
 ---
-
-publish: true
-title: ⌨️🐍 Videogrep
-tags:
-  - shell
-  - python
+{"publish":true,"title":"⌨️🐍 Videogrep","tags":["shell","python"],"PassFrontmatter":true}
 ---
+
 
 =======
 {"publish":true,"title":"⌨️🐍 Videogrep","tags":["shell","python"],"PassFrontmatter":true}

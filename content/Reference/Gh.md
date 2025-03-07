@@ -1,10 +1,7 @@
 ---
-
-publish: true
-title: ⌨️ Gh
-tags:
-  - shell
+{"publish":true,"title":"⌨️ Gh","tags":["shell"],"PassFrontmatter":true}
 ---
+
 =======
 {"publish":true,"title":"⌨️ Gh","tags":["shell"],"PassFrontmatter":true}
 ---
