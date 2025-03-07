@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 🐍 Venv
-tags:
-- python
+{"publish":true,"title":"🐍 Venv","tags":["python"],"PassFrontmatter":true}
 ---
+
 <<<<<<< HEAD
 =======
 
