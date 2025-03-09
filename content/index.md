@@ -19,27 +19,21 @@ Posts about things I'm working on.
 ## Reference
 Where I write little technical things down to come back to later. A notebook.
 #### Shell
-
 - [[Reference/Videogrep\|Videogrep]]
 - [[Reference/Local Sharing via HTTP or ssh\|Local Sharing via HTTP or ssh]]
 - [[Reference/Jpegoptim\|Jpegoptim]]
-- [[Reference/Git\|Git]]
 - [[Reference/Gh\|Gh]]
+- [[Reference/Alias\|Alias]]
 - [[Reference/FFmpeg\|FFmpeg]]
 - [[Reference/Cronjob\|Cronjob]]
-- [[Reference/Alias\|Alias]]
+- [[Reference/Git\|Git]]
 
-<<<<<<< HEAD
+
 #### Python
 - [[Reference/Videogrep\|Videogrep]]
 - [[Reference/Venv\|Venv]]
 
 
-=======
-
-#### Python
-- [[Reference/Videogrep\|Videogrep]]
-- [[Reference/Venv\|Venv]]
 ## Interesting Things
 - [Permacomputing](https://permacomputing.net/)
 - [Low-tech Magazine](https://solar.lowtechmagazine.com/)

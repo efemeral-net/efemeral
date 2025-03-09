@@ -138,3 +138,19 @@ git push
 ```bash
 CMD + SHIFT + .
 ```
+
+---
+
+### Change Most Recent Git Message
+
+1. Amend the commit message:
+```bash
+git commit --amend -m "Add initial project setup"
+```
+
+2. Force push the changes:
+```bash
+git push --force
+```
+
+---
